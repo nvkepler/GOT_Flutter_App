@@ -1,4 +1,4 @@
-# got_flutter_app
+# GOT_Flutter_App
 
 A new GOT Flutter application.
 
